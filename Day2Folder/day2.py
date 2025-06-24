@@ -1,7 +1,7 @@
 # Write all your codes for Day 2 here.
 # COMMENT out the previous task before going on to the next task
 print("hello from day2")
-for count in range(69):
+for count in range(100):
     print("your mum is fat she ate a 5 course meal every 2 seconds")
 ########################################################################
 # Task 1:
