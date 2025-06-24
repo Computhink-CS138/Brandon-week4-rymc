@@ -2,7 +2,7 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day2")
 for count in range(69):
-    print("i will not throw an orange at my friend")
+    print("")
 ########################################################################
 # Task 1:
 
