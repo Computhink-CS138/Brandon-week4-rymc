@@ -26,8 +26,8 @@
 
 ########################################################################
 # Task 4:
-for count in range(1, 11):
-    print(count)
+# for count in range(1, 11):
+#     print(count)
 
 
 
