@@ -7,10 +7,10 @@
 #     print("womp womp")
 ########################################################################
 # Task 1:
-name = "son of a bitch"
-for letter in name:
-    print("give me a ")
-
+# name"you"
+# for letter in name:
+#     print("give me a "+ "letter+ !")
+ 
 
 
 
@@ -26,6 +26,9 @@ for letter in name:
 
 ########################################################################
 # Task 4:
+for count in range(1, 11):
+    print(count)
+
 
 
 
