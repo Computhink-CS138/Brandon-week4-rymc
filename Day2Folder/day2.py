@@ -9,7 +9,7 @@
 # Task 1:
 name = "son of a bitch"
 for letter in name:
-    print
+    print("")
 
 
 
