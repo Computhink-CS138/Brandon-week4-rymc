@@ -34,7 +34,7 @@ for count in range(1, 11):
 
 ########################################################################
 # Task 5:
-for count in range(2, 101, 2):
+for count in range(6, 101, 2):
     print (count)
 
 
