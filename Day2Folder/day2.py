@@ -4,7 +4,7 @@ print("hello from day2")
 for count in range(100):
     print("your mum is that fat she ate a 5 course meal every 2 seconds")
     print("shut the fucking hell up")
-    print("")
+    print("womp womp")
 ########################################################################
 # Task 1:
 
