@@ -2,7 +2,7 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day2")
 for count in range(69):
-    print("your mum is fat she ate a 5 cor every 2 seconds")
+    print("your mum is fat she ate a 5 coures every 2 seconds")
 ########################################################################
 # Task 1:
 
