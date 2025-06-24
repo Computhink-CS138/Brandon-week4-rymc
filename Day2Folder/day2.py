@@ -7,7 +7,9 @@
 #     print("womp womp")
 ########################################################################
 # Task 1:
-name = ""
+name = "son of a bitch"
+for letter in name:
+    print
 
 
 
