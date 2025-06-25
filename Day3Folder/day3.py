@@ -1,14 +1,15 @@
 # Write all your codes for Day 3 here.
 # COMMENT out the previous task before going on to the next task
-print("hello from day3")
+# print("hello from day3")
 
-yourname = input("what is your name?")
-print(yourname + " took a girl out to the movies before")
+# yourname = input("what is your name?")
+# print(yourname + " took a girl out to the movies before")
 
-yourage = input("how old are you?")
-print("you are " + yourage + " years old")
+# yourage = input("how old are you?")
+# print("you are " + yourage + " years old")
 ########################################################################
 # Task 1:
+
 
 
 
