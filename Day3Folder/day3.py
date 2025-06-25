@@ -6,7 +6,7 @@ yourname = input("what is your name?")
 print(yourname + " took a girl out to the movies before")
 
 yourage = input("how old are you?")
-print("you are " + yourage + "")
+print("you are " + yourage + " years old")
 ########################################################################
 # Task 1:
 
