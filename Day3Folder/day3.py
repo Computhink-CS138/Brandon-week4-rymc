@@ -12,7 +12,7 @@
 yourname=input("what is your name")
 yourtitle=input("what is your title")
 yourcommand=input("what is your command")
-
+print(yourtitle)
 
 
 ########################################################################
