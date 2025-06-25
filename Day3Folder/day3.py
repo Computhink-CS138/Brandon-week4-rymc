@@ -15,6 +15,7 @@ yourcommand=input("what is your command")
 print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
 ########################################################################
 # Task 2:
+name+""
 
 
 
