@@ -11,7 +11,8 @@
 # Task 1:
 yourname=input("what is your name")
 yourtitle=input("what is your title")
-yourcommand=input("")
+yourcommand=input("what is your command")
+
 
 
 ########################################################################
