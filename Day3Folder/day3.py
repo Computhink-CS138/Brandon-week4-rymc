@@ -5,7 +5,7 @@ print("hello from day3")
 yourname = input("what is your name?")
 print(yourname + " took a girl out to the movies before")
 
-yourage = input("")
+yourage = input("how")
 ########################################################################
 # Task 1:
 
