@@ -9,15 +9,15 @@
 # print("you are " + yourage + " years old")
 ########################################################################
 # Task 1:
-yourname=input("what is your name")
-yourtitle=input("what is your title")
-yourcommand=input("what is your command")
-print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
-########################################################################
-# Task 2:
-name="yamal"
-num_goals="6"
-print(name + " wanted to socre " + num_goals )
+# yourname=input("what is your name")
+# yourtitle=input("what is your title")
+# yourcommand=input("what is your command")
+# print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
+# ########################################################################
+# # Task 2:
+# name="yamal"
+# num_goals="6"
+# print(name + " wanted to socre " + num_goals during the national cup)
 
 
 ########################################################################
