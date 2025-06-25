@@ -2,15 +2,15 @@
 # COMMENT out the previous task before going on to the next task
 # print("hello from day3")
 
-#("what is your name?") yourname = input
+#("what is your name?")
 # print(yourname + " took a girl out to the movies before")
 
 # yourage = input("how old are you?")
 # print("you are " + yourage + " years old")
 ########################################################################
 # Task 1:
-
-
+yourname=input("what is your name")
+yourtitle=input("what is your title")
 
 
 ########################################################################
