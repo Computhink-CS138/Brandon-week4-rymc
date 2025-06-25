@@ -2,7 +2,8 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day3")
 
-yourname = input("")
+yourname = input("what is your name?")
+
 ########################################################################
 # Task 1:
 
