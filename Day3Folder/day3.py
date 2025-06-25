@@ -16,8 +16,8 @@ print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
 ########################################################################
 # Task 2:
 name="yamal"
-num_goals=""
-print(name + " wanted to socre " + num_goals)
+num_goals="6"
+print(name + " wanted to socre " + num_goals )
 
 
 ########################################################################
