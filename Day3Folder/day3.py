@@ -37,9 +37,10 @@ total = unitcost * quantity
 print("please pay me $" + str(total) + " for your " + item)
 ########################################################################
 # Task 5:
-
-
-
+mother = 49
+father = 47
+if mother > father
+    
 ########################################################################
 # Task 6:
 
