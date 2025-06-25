@@ -3,7 +3,7 @@
 print("hello from day3")
 
 yourname = input("what is your name?")
-print(yourname + " i took a girl out to the mo")
+print(yourname + " took a girl out to the movies before")
 ########################################################################
 # Task 1:
 
