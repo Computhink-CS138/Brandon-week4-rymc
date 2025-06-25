@@ -17,7 +17,7 @@ print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
 # Task 2:
 name+"yamal"
 num_goals="10"
-print(name + )
+print(name + " wanted to buy " + num)
 
 
 ########################################################################
