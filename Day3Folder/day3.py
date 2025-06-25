@@ -34,7 +34,7 @@ unitcost = 54
 quantity = input("how many do u want to purchase?")
 quantity = int(quantity)
 total = unitcost * quantity
-print("please pay me")
+print("please pay me $")
 ########################################################################
 # Task 5:
 
