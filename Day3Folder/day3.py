@@ -33,6 +33,7 @@ item = "durian"
 unitcost = 54
 quantity = input("how many do u want to purchase?")
 quantity = int(quantity)
+t
 ########################################################################
 # Task 5:
 
