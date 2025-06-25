@@ -29,8 +29,9 @@
 
 ########################################################################
 # Task 4:
-item = "apple"
-unitcost = input("how many do u want to purchase?")
+item = "durian"
+unitcost = 54
+= input("how many do u want to purchase?")
 
 ########################################################################
 # Task 5:
