@@ -31,7 +31,7 @@
 # Task 4:
 item = "durian"
 unitcost = 54
-quanti= input("how many do u want to purchase?")
+quantity = input("how many do u want to purchase?")
 
 ########################################################################
 # Task 5:
