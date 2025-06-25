@@ -16,7 +16,7 @@ print(yourtitle + " " + yourname + " commands the citizens to " + yourcommand)
 ########################################################################
 # Task 2:
 name+"yamal"
-num_
+num_goals="10"
 
 
 
