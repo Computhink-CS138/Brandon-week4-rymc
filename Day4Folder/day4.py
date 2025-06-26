@@ -25,6 +25,7 @@ else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
 ########################################################################
 # Additional exercises:
+tries = 1
 import random
 num1 = dicevalue = random.randint(1,100) 
 import random
