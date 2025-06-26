@@ -30,4 +30,4 @@ num1 = dicevalue = random.randint(1,100)
 import random
 num2 = dicevalue = random.randint(1, 100)
 hidden = num1 + num2
-question = "what is " + str(num1) + " + " +
+question = "what is " + str(num1) + " + " + str(num1)
