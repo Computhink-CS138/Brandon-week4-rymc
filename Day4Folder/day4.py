@@ -14,7 +14,7 @@
 # Task 2:
 
 riddle = "what do you call a 3 deer in 3 herds with three heads?"
-hidden = "thirce of a deer"
+hidden = " the thrice of a deer"
 guess = input( riddle)
 while guess != hidden:
     print("wrong! try again")
