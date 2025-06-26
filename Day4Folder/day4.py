@@ -1,10 +1,10 @@
 # Write all your codes for Day 4 here.
 # COMMENT out the previous task before going on to the next task
-print("hello from day4")
-import random
-for count in range(10):
-    dicevalue = random.randint(1, 9999)
-    print(dicevalue)
+# print("hello from day4")
+# import random
+# for count in range(10):
+#     dicevalue = random.randint(1, 9999)
+#     print(dicevalue)
 ########################################################################
 # Task 1:
 
