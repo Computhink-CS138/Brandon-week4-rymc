@@ -26,6 +26,6 @@ else:
 ########################################################################
 # Additional exercises:
 import random
-num1 = dicevalue = random.randint(1,) 
+num1 = dicevalue = random.randint(1,100) 
 import random 
 print("what is") (num1 + num2)
