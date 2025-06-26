@@ -3,7 +3,7 @@
 print("hello from day4")
 import random
 for count in range(10):
-dicevalue
+    dicevalue
 ########################################################################
 # Task 1:
 
