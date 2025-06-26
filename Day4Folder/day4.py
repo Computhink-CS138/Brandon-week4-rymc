@@ -25,5 +25,7 @@ else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
 ########################################################################
 # Additional exercises:
+import random
+num1 = dicevalue = random 
 import random 
-print("")
+print("what is") (num1 + num2)
