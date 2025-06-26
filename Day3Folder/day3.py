@@ -29,20 +29,72 @@
 
 ########################################################################
 # Task 4:
-item = "durian"
-unitcost = 54
-quantity = input("how many do u want to purchase?")
-quantity = int(quantity)
-total = unitcost * quantity
-print("please pay me $" + str(total) + " for your " + item)
+# item = "durian"
+# unitcost = 54
+# quantity = input("how many do u want to purchase?")
+# quantity = int(quantity)
+# total = unitcost * quantity
+# print("please pay me $" + str(total) + " for your " + item)
 ########################################################################
 # Task 5:
-mother = 49
-father = 47
-if mother > father
-    
+# mother = 49
+# father = 47
+# if mother > father:
+#     print("mother is older")
+# else:
+#     print("mother is younger than dad")
+# daddyage = input("how old is your dad")
+# daddyage = int(daddyage)
+# print("dad is older")
+# mommyage = input ("how old is your mom")
+# mommyage = int(mommyage)
+# print("mother is older")
 ########################################################################
 # Task 6:
+for count in range(3):
+    password ="cs39computhinksgcom"
+    guess=input("what is the password")
+
+    if guess==password:
+        print("correct! pls proceed")
+        break
+    else:
+        print("password is...")
+        print("NOPE WOMP WOMP!")
+
+if password != guess:
+    print("lockdown for next 2 hours")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,3 +109,25 @@ if mother > father
 
 
 ########################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
