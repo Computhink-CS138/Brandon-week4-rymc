@@ -27,5 +27,6 @@ else:
 # Additional exercises:
 import random
 num1 = dicevalue = random.randint(1,100) 
-import random 
+import random
+num2 = dicevalue
 print("what is") (num1 + num2)
