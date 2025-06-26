@@ -3,7 +3,8 @@
 print("hello from day4")
 import random
 for count in range(10):
-    dicevalue = random.randint(0001, )
+    dicevalue = random.randint(0001, 9999
+                               )
 ########################################################################
 # Task 1:
 
