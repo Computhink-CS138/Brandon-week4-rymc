@@ -21,6 +21,6 @@ while guess != hidden:
     tries = tries + 1
     guess = input( riddle )
 else:
-    print("you ")
+    print("you are correct! and you ")
 ########################################################################
 # Additional exercises:
