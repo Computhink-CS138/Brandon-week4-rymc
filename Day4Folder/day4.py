@@ -23,6 +23,5 @@ while guess != hidden:
     guess = input( riddle )
 else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
-
 ########################################################################
 # Additional exercises:
