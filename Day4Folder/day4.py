@@ -34,4 +34,4 @@ question = "what is " + str(num1) + " + " + str(num2) + "? "
 guess = input(question)
 tries = tries + 1
 while guess != str(hidden):
-    print()
+    print("wrong please try again")
