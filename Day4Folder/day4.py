@@ -36,5 +36,6 @@ tries = tries + 1
 guess = input( question )
 while guess != str(hidden):
     print("wrong please try again")
+    
 else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
