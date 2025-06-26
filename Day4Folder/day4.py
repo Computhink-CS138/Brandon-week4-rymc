@@ -28,5 +28,5 @@ else:
 import random
 num1 = dicevalue = random.randint(1,100) 
 import random
-num2 = dicevalue = ra
+num2 = dicevalue = random.randint()
 print("what is") (num1 + num2)
