@@ -19,6 +19,6 @@ guess = input( riddle)
 while guess != hidden:
     print("wrong! try again")
     tries = tries + 1
-    
+    guess = input
 ########################################################################
 # Additional exercises:
