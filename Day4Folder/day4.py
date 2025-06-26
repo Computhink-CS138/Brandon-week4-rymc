@@ -18,6 +18,7 @@ hidden = "thirce of a deer"
 guess = input( riddle)
 while guess != hidden:
     print("wrong! try again")
-    tries = tries 
+    tries = tries + 1
+    
 ########################################################################
 # Additional exercises:
