@@ -20,6 +20,7 @@ while guess != hidden:
     print("wrong! try again")
     tries = tries + 1
     guess = input( riddle )
-    
+else:
+    print
 ########################################################################
 # Additional exercises:
