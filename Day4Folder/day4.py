@@ -35,3 +35,4 @@ guess = input(question)
 tries = tries + 1
 while guess != str(hidden):
     print("wrong please try again")
+    
