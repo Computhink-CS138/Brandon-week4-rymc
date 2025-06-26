@@ -4,7 +4,7 @@ print("hello from day4")
 import random
 for count in range(10):
     dicevalue = random.randint(0001, 9999)
-    print
+    print(dicevalue)
 ########################################################################
 # Task 1:
 
