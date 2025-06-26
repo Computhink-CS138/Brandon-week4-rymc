@@ -13,8 +13,8 @@ for count in range(10):
 ########################################################################
 # Task 2:
 
-riddle = "what do you call a 3 deer in a herd?"
-hidden = "thirce"
+riddle = "what do you call a 3 deer in a herd with ?"
+hidden = "thirceof a deer"
 
 
 ########################################################################
